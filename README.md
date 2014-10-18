@@ -1,4 +1,4 @@
 DataSciencelv.github.io
 =======================
 
-This is a website for the data science group in Las Vegas
+This is a repository for the website of the Data Science group in Las Vegas
